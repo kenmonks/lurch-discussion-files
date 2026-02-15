@@ -4,13 +4,13 @@
                 <script language="javascript">
                     const link = document.querySelector( '#loadlink > p > a' )
                     const thisURL = encodeURIComponent( window.location.href )
-                    link?.setAttribute( 'href', 'http://localhost:3000/instructor.html?load=' + thisURL )
+                    link?.setAttribute( 'href', 'https://lurch.plus/instructor.html?load=' + thisURL )
                 </script>
             </div>
         
             <div id="metadata" style="display: none;"></div>
             <div id="document"><h1>Welcome to the Lurch Discussion Files</h1>
-<p>This repository is a place to store example Lurch documents so that they can be linked to in forum discussions like those in the <a title="Lurch" href="https://code4math.zulipchat.com/#narrow/channel/416474-Lurch" target="_blank" rel="noopener">Lurch channel at code4math</a>.&nbsp; This allows share a link such as&nbsp;</p>
+<p>This repository is a place to store example Lurch documents so that they can be linked to in forum discussions like those in the <a title="Lurch" href="https://code4math.zulipchat.com/#narrow/channel/416474-Lurch" target="_blank" rel="noopener">Lurch channel at code4math</a>.&nbsp; This allows sharing a link such as&nbsp;</p>
 <p><code>https://lurch.plus/instructor.html?load=https://kenmonks.github.io/lurch-discussion-files/welcome.lurch</code></p>
 <p>to a file such that it will open directly in Lurch when a user clicks on it.&nbsp;</p></div>
         
