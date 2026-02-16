@@ -4,4 +4,4 @@ This repository is a place to store example Lurch documents so that they can be 
 
 `https://lurch.plus/instructor.html?load=https://kenmonks.github.io/lurch-discussion-files/welcome.lurch`
 
-to a file such that it will [open directly in Lurch](https://lurch.plus/instructor.html?load=https://kenmonks.github.io/lurch-discussion-files/welcome.lurch) when a user clicks on it. If you would like to be able to post files here, [contact me](mailto:ken.monks@sgmail.com).
+to a file such that it will [open directly in Lurch](https://lurch.plus/instructor.html?load=https://kenmonks.github.io/lurch-discussion-files/welcome.lurch) when a user clicks on it. If you would like to be able to post files here, [contact me](mailto:monks@scranton.edu).
